@@ -1,4 +1,25 @@
 body {
- color: hotpink;
- background: black;
+    color: rgb(255, 249, 255);
+    background: black;
+    margin: 0px;
+}  
+    
+
+
+header {
+    border: solid 2px white;
+    padding: 20px;
+    font-size: 29px;
 }
+
+section {
+    background: rgb(231, 135, 215);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+ .chamada-texto { 
+    margin-right: 10%;
+ }
